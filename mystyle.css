@@ -1,5 +1,11 @@
 /* ---Ribbion for name Start--
 ------------------------------ */
+p {
+    font-weight: 500;
+    font-size: 16px;
+    color: blue;
+    margin: 1px;
+  }
 
 .destacados{
     padding: 0px 0;
@@ -20,13 +26,6 @@
     border-radius: 5px;
     border: 1px solid #000000;
 }    
-
-p {
-    font-weight: 500;
-    font-size: 16px;
-    color: blue;
-    margin: 1px;
-  }
 
 .box1 h3 {
     position:relative;
